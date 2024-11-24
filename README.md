@@ -45,8 +45,8 @@ To set up and use the **v2ray-box**, you will need the following hardware and so
 
 4. **Connect to the v2ray-box:**
    - By default, connect to the WiFi network:
-     - **SSID:** `v2ray-box`
-     - **Password:** `12345678`
+     - **SSID:** `v2raybox`
+     - **Password:** `Milad@123`
    - Open a web browser and navigate to `http://192.168.2.1:2017`.
    - Use the following credentials to log in:
      - **Username:** `admin`
