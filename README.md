@@ -97,17 +97,6 @@ This project is released under the [MIT License](LICENSE). You are free to use, 
 This project integrates or relies on the following third-party software, each of which is governed by its own license:
 - **OpenWRT**: This project uses OpenWRT as the base operating system. OpenWRT is licensed under the [GPLv2 License](https://openwrt.org/license).
 - **V2RayA**: This project includes V2RayA for proxy management, which is licensed under the [AGPLv3 License](https://github.com/v2rayA/v2rayA/blob/master/LICENSE).
-- 
-#### OpenWRT License
-
-OpenWRT is free software, provided AS-IS and without any warranty.
-Unless otherwise stated in the source files, the OpenWRT build environment is provided under the terms of the GNU General Public License Version 2 (GPLv2). The exact GPLv2 license text can be found in the file `LICENSE` in the OpenWRT source repository.
-The OpenWRT distribution (precompiled images, etc.) includes many third-party applications and modules, each of which is available under its respective Open Source license or Public Domain. The sources for those packages can be found in the [OpenWRT source archive](https://openwrt.org). Please refer to these source packages to determine which license applies to them.
-
-##### Disclaimer
-We recommend that users have a basic understanding of GNU/Linux and networking concepts before installing OpenWRT on their devices. Support for OpenWRT is community-driven and provided on a voluntary basis by developers and fellow users, without any guarantees.
-
-For compliance concerns, OpenWRT has joined the Software Freedom Conservancy (SFC). If you are aware of any GPL violations related to OpenWRT, please contact SFC at [compliance@sfconservancy.org](mailto:compliance@sfconservancy.org).
 
 
 Please review the respective licenses of these projects for their terms and conditions. By using this project, you agree to comply with the licenses of all included third-party components.
