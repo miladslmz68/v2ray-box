@@ -59,4 +59,19 @@ To set up and use the **v2ray-box**, you will need the following hardware and so
 
 2. **Firewall Configuration:**
    - Ensure that your firewall rules are set up to prevent unauthorized access.
+پ
+## Contact
+If you have any questions, suggestions, or issues, feel free to reach out:
+
+- **Email:** milad.sm@outlook.com
+- **GitHub Issues:** [Create an issue](https://github.com/username/v2ray-box/issues)  
+- **LinkedIn:** [Milad Salehi Mazandarani](https://linkedin.com/in/milad-salehi-mazandarani)
+
+
+## Disclaimer
+- This project is provided "as is" without any guarantees or warranties.  
+- The creator is not responsible for any misuse, damages, or legal issues that may arise from the use of this software.  
+- Users are responsible for complying with their local laws and regulations when using this project.  
+- For educational purposes only.
+
 
