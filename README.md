@@ -1,6 +1,8 @@
 # v2ray-box
 This software transforms a Raspberry Pi 3B+ into a V2Ray router, providing unrestricted internet via Wi-Fi by using an Ethernet connection for internet input. It allows devices to connect to the Wi-Fi and access the internet without the need for proxy settings on the clients.
 
+This repository does not include any source code. All configurations and setup files are provided as downloadable packages in the [**Releases**](https://github.com/username/v2ray-box/releases) section.
+
 ## Features
 1. **Easy-to-configure V2Ray proxy management.**
 2. **Load balancing between proxies.**
