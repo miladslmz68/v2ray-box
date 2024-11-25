@@ -69,6 +69,16 @@ If you have any questions, suggestions, or issues, feel free to reach out:
 - **GitHub Issues:** [Create an issue](https://github.com/miladslmz68/v2ray-box/issues)  
 - **LinkedIn:** [Milad Salehi Mazandarani](https://linkedin.com/in/milad-salehi-mazandarani)
 
+## Acknowledgements
+
+We would like to express our sincere gratitude to the following projects:
+
+- **v2raya**: For providing the open-source platform that powers this software. v2raya has been instrumental in enabling seamless V2Ray proxy management and client control.  
+  Visit their official repository: [**v2raya GitHub**](https://github.com/v2raya)
+
+- **OpenWRT**: For being the backbone of the router management system. OpenWRT provides a flexible and customizable environment, enabling easy configuration and management of network settings.  
+  Visit their official repository: [**OpenWRT GitHub**](https://github.com/openwrt)
+
 
 ## Disclaimer
 - This project is provided "as is" without any guarantees or warranties.  
