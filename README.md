@@ -1,5 +1,5 @@
 # v2ray-box
-A lightweight device for managing V2Ray proxy services with advanced features like load balancing and client control.
+This software transforms a Raspberry Pi 3B+ into a V2Ray router, providing unrestricted internet via Wi-Fi by using an Ethernet connection for internet input. It allows devices to connect to the Wi-Fi and access the internet without the need for proxy settings on the clients.
 
 ## Features
 1. **Easy-to-configure V2Ray proxy management.**
