@@ -55,6 +55,8 @@ To set up and use the **v2ray-box**, you will need the following hardware and so
 ## Additional Notes
 1. **Change WiFi Credentials:**
    - Access the OpenWRT panel at `http://192.168.2.1`.
+     - **User:** `root`
+     - **Password:** `Milad@123`
    - Navigate to the "Wireless" section and update the SSID and WiFi password.
 
 2. **Firewall Configuration:**
