@@ -88,4 +88,18 @@ We would like to express our sincere gratitude to the following projects:
 - Users are responsible for complying with their local laws and regulations when using this project.  
 - For educational purposes only.
 
+## License
+
+This project is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this software in compliance with the terms of the license.
+
+### Third-Party Software Licenses
+
+This project integrates or relies on the following third-party software, each of which is governed by its own license:
+
+- **OpenWRT**: This project uses OpenWRT as the base operating system. OpenWRT is licensed under the [GPLv2 License](https://openwrt.org/about/license).
+- **V2RayA**: This project includes V2RayA for proxy management, which is licensed under the [AGPLv3 License](https://github.com/v2rayA/v2rayA/blob/master/LICENSE).
+
+Please review the respective licenses of these projects for their terms and conditions. By using this project, you agree to comply with the licenses of all included third-party components.
+
+
 
